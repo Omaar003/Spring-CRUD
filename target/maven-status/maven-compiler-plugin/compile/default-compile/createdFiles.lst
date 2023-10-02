@@ -1,0 +1,7 @@
+com\example\springtask\entity\EmployeesEntity.class
+com\example\springtask\repo\EmployeesRepo.class
+com\example\springtask\service\AppSerivce.class
+com\example\springtask\entity\CountriesEntity.class
+com\example\springtask\controller\AppController.class
+com\example\springtask\repo\CountriesRepo.class
+com\example\springtask\SpringTaskApplication.class
